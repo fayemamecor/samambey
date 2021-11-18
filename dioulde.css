@@ -1,0 +1,139 @@
+.container{
+    margin-left:200px;
+    
+ }
+ h4 a {
+   color: black;
+   text-decoration: none;
+ }
+ ul {
+     list-style: none;
+   /*background-color:#ffc0cb;*/
+   overflow: hidden;
+   white-space: normal;
+      font-size : 20px;
+     /* text-shadow: -3px 3px 2px #BCF5A9; */
+   /*margin-left: 300px;
+ 
+     border-radius: 20px;*/
+  
+ }
+ 
+ li{
+     float:right;
+ }
+ li a{
+     color: black;
+     padding: 10px;
+     text-decoration:none;
+     display: block;
+ }
+ li a:hover{
+     
+   border-bottom: 2px solid #8AC007;
+   cursor:pointer;
+ }
+ .section{
+      width: 100%;
+      height:100%;
+     margin: 100px;
+     float:center;
+ }
+ .menu2{
+   text-align: center;
+ }
+ .w3-container{
+   margin-left: 130px;
+ }
+
+
+
+
+
+
+
+body{    background-image: url(/image/nature.jpg);
+    background-position: 100% 100%;
+    
+}
+
+}
+.u-section-2 .u-container-layout-4 {
+    padding: 30px;
+}
+.u-valign-top {
+    justify-content: flex-start;
+}
+.u-valign-middle, .u-valign-top, .u-valign-bottom {
+    display: flex;
+    flex-direction: column;
+}
+.u-container-layout {
+    position: relative;
+    flex: 1;
+    max-width: 100%;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.u-white, .u-body.u-white, .u-container-style.u-white:before {
+    color: #111111;
+    background-color: #ffffff;
+}
+.u-align-center {
+    text-align: center;
+}
+.u-sheet:not(.u-image):not(.u-video) > * {
+    pointer-events: auto;
+    pointer-events: initial;
+}
+.u-sheet:not(.u-image):not(.u-video) {
+    pointer-events: none;
+}
+.u-overlap.u-overlap-transparent .u-header, .u-image, .u-gradient {
+    color: #111111;
+}
+.u-body {
+    color: #111111;
+    background-color: #ffffff;
+}
+.u-body {
+    font-family: 'Open Sans',sans-serif;
+}
+.u-body {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+style attribute {
+    font-size: 16px;
+}
+html {
+    font-size: 16px;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+footer{
+bottom: 0;
+width: 100%;
+background-color:gray;
+   color: black;
+   border-radius: 50px;
+   text-align: center;
+float: center;
+
+ }
+
+ 

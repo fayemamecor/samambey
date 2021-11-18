@@ -1,0 +1,127 @@
+element.style {
+}
+
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: url("12.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
+linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%),
+
+header.masthead {
+    height: 100vh;
+    min-height: 30rem;
+  
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+header {
+    display: block;
+}
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+.box-sector {
+    top: 0;
+}
+.box-sector {
+
+    position: relative;
+    z-index: 40;
+    top: -7rem;
+    width: 100%;
+}
+.box-slider {
+    min-height: 0vh;
+}
+.box-slider {
+    position: relative;
+    height: 100vh;
+    min-height: 700px;
+}
+* {
+    box-sizing: border-box;
+}
+#sector_title{
+
+
+}
+.sector_title{
+   position: relative;
+   
+   
+}
+.title-section {
+    position: relative;
+      top: 50px;
+}
+.title-section {
+    display: inline-block;
+    width: 100%;
+}
+.sector_title {
+    line-height: 76px;
+    position: relative;
+    bottom: 50px;
+    float: right;
+    width: 220px;
+    height: 70px;
+}
+
+h2{
+  font-size: 2.5em;
+  color: grey;
+}
+p{
+  font-size: 2em;
+  color: grey;
+}
+.img1,.img2{
+  height: 200px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 center;
+}
+.img1{
+  background-image: url("image/4.jpg");
+}
+.img2{
+  background-image: url("image/8.jpg");
+}
+
+
+.title-icon{
+
+}
+footer {
+    /*position: fixed;*/
+   
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color: black;
+       border-radius: 50px;
+       text-align: center;
+    float: center;
+ 
+     }
+ 
