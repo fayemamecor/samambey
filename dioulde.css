@@ -125,7 +125,7 @@ html {
 *, *:before, *:after {
     box-sizing: border-box;
 }
-footer{
+.footer{
 bottom: 0;
 width: 100%;
 background-color:gray;
@@ -135,5 +135,7 @@ background-color:gray;
 float: center;
 
  }
-
+body{
+    background-image: url("15.jpg");
+}
  
